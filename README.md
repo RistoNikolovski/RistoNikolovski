@@ -3,7 +3,7 @@
 - 👀 I’m am interested in front-end web development.
 - 🌱 I’m currently learning the basics.
 - 💞️ I’m looking to collaborate on whatever is relevant for my level of knowledge and propels me to learn more.
-- 📫 How to reach me: "nikolovski.risto@gmail.com".
+- 📫 How to reach me: "nikolovski.risto@gmail.com"; "www.linkedin.com/in/nikolovski-risto-04959490/"
 
 <!---
 RistoNikolovski/RistoNikolovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
